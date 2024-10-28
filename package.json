@@ -1,16 +1,33 @@
 {
-  "dependencies": {
-    "express": "^4.21.1"
-  },
+ 
   "name": "tyr1",
+ 
   "version": "1.0.0",
+ 
   "main": "index.js",
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+ 
+  "dependencies": {
+ 
+   
+  "express": "^4.21.1",
+ 
+   
+  "ws": "^8.18.0"
+ 
   },
+ 
+  "scripts": {
+ 
+   
+  "test": "echo \"Error: no test specified\" && exit 1"
+ 
+  },
+ 
   "keywords": [],
+ 
   "author": "",
+ 
   "license": "ISC",
+ 
   "description": ""
 }
